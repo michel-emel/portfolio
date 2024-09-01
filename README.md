@@ -7,14 +7,14 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 ## Screenshots
 
 <p float="center">
-    <img src="https://github.com/arasgungore/arasgungore.github.io/blob/main/Screenshots/1.png" width="800">
+    <img src="" width="800">
 </p>
 
 
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Michel Emel**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [michel emel](https://www.linkedin.com/in/michel-emel)
+* GitHub: [michel emel](https://github.com/michel-emel)
